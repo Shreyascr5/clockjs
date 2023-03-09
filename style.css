@@ -1,8 +1,9 @@
 * {
     text-align: center;
-    background-image: url("https://cdn.pixabay.com/photo/2018/05/28/12/09/time-3435879__480.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-color: silver;
+    /* background-image: url("https://cdn.pixabay.com/photo/2018/05/28/12/09/time-3435879__480.jpg"); */
+    /* background-size: cover;
+    background-repeat: no-repeat; */
 }
 
 h1 {
@@ -17,4 +18,10 @@ p {
     font-family: 'Times New Roman', Times, serif;
     font-weight: bolder;
     background-repeat: no-repeat;
+}
+
+#year {
+    padding: 1rem;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
 }
